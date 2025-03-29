@@ -47,7 +47,7 @@ Each folder contains multiple Swift files, each representing a LeetCode problem.
 ## **🚀 Getting Started**
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/Data-Structures-Swift.git
+git clone https://github.com/jainMadhur42/DataStructure.git
 cd Data-Structures-Swift
 ```
 
