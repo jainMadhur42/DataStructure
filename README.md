@@ -1,7 +1,3 @@
-# DataStructure
-Here's a **README.md** file content for your **Data Structure LeetCode Solutions** repository in Swift:  
-
----
 
 # **📚 Data Structures in Swift – LeetCode Solutions**  
 
