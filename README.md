@@ -76,5 +76,3 @@ If you’d like to contribute by adding more problems or improving existing solu
 ## **📧 Contact**
 If you have any questions, feel free to reach out! 😊  
 
----
-Would you like me to include a **badges section** (like Swift version, problem count, etc.)? 🚀
