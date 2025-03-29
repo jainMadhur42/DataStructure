@@ -1,5 +1,6 @@
 
 // https://leetcode.com/problems/online-stock-span/
+// https://www.youtube.com/watch?v=01vBuZyMfqk&list=PLGjplNEQ1it-kmrbYmzQfLWjVOFj6JpEV&index=3
 
 class StockSpanner {
 
