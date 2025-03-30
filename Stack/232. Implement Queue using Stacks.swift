@@ -3,11 +3,13 @@
 
 
 
-// Use recursion as second stack.
+// Use recursion as a second stack.
+
 class MyQueue {
 
     var stack: [Int] = []
-  
+
+
     init() {
         
     }
@@ -17,15 +19,15 @@ class MyQueue {
     }
     
     func pop() -> Int {
-       if stack.isEmpty {
-            return nil
+        if stack.isEmpty {
+            return -1
         }
 
         var last = stack.popLast()
         if stack.isEmpty {
-            return last
+            return last!
         }
-        let front = solve()
+        let front = pop()
         stack.append(last!)
         return front
     }
