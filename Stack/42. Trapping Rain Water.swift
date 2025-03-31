@@ -1,5 +1,7 @@
 
 // https://leetcode.com/problems/trapping-rain-water/
+// https://www.youtube.com/watch?v=p6YN-l9QW7c&t=476s
+
 
 class Solution {
 
